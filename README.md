@@ -20,7 +20,7 @@
   <li><a href="https://f0keeva.github.io/portfolio/zvolna/" target="_blank">Зелёная Волна</a></li>
   <li><a href="https://f0keeva.github.io/portfolio/blush/" target="_blank">Blush</a></li>
   <li><a href="https://f0keeva.github.io/portfolio/starlo/" target="_blank">Starlo</a></li>
-<ul>
+</ul>
 
 
 <h3>Лендинги:</h3>
